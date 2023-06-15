@@ -2,7 +2,7 @@ I guess I've been writing code almost since I was able to type.
 
 I started out with QBASIC in the early 90s, writing and modding games. Later, I picked up Visual Basic and Visual C++ in the middle 90s while I was in Middle School. Later still, I learned variants of Lisp and Forth for programming MUDs. I did some Perl in the late 90s during the first dot-com bubble and learned some Java and C in college. My last three jobs have been primarily PHP, Python and Javascript, but with a healthy dose of other languages including Ruby, Objective-C and Swift.
 
-I earned a bachelor's degree from [Auburn University](http://www.auburn.edu) (War Eagle!) in 2004 and have worked as a software engineer in a wide range of industries: transit systems, education, computer-based training, telecommunications, online retailing and health care. I'm is currently a technical lead at [Aledade](https://www.aledade.com). Past employers have included:
+I earned a bachelor's degree from [Auburn University](http://www.auburn.edu) (War Eagle!) in 2004 and have worked as a software engineer in a wide range of industries: transit systems, education, computer-based training, telecommunications, online retailing and health care. I'm currently a technical lead at [Aledade](https://www.aledade.com). Past employers have included:
 
 * [DealNews](https://www.dealnews.com), final role was Team Lead, 2006-2022
 * [Asteria Solutions](https://web.archive.org/web/20051215065526/http://www.asteriasgi.com/), Software Engineer, 2005-2006
