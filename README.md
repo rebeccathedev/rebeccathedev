@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://www.robpeck.com/assets/img/header-bg-2022.jpeg">
+
 <!--
 **rebeccathedev/rebeccathedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
