@@ -1,4 +1,4 @@
-![Mesa Verde](header.jpeg)
+![Mesa Verde](header.jpg)
 
 I guess I've been writing code almost since I was able to type.
 
