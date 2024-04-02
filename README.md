@@ -12,8 +12,16 @@ I earned a bachelor's degree from [Auburn University](http://www.auburn.edu) (Wa
 * [Auburn University](http://www.auburn.edu), Intern, 2000-2002
 * [TCT Transit Systems](https://web.archive.org/web/20000303222407/http://www.tcttransit.com/), Intern, 1999-2000
 
+<div align="center">
+  <p>Find me online:</p>
+  <a href="https://bsky.app/profile/rebeccapeck.org"><img src="https://cdn.simpleicons.org/bluesky/0285FF/" width=32></a>&nbsp;&nbsp;
+  <a href="https://hachyderm.io/@rebeccathedev"><img src="https://cdn.simpleicons.org/mastodon/6364FF/" width=32></a>&nbsp;&nbsp;
+  <a href="https://hachyderm.io/@rebeccathedev"><img src="https://cdn.simpleicons.org/linkedin/0A66C2/" width=32></a>
+</div>
+
+
 <!--
-**peckrob/peckrob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rebeccathedev/rebeccathedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
