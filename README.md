@@ -1,4 +1,4 @@
-![Mesa Verde](header-2024.jpg)
+![Vista of the Colorado Rockies](header-2024.jpg)
 
 I guess I've been writing code almost since I was able to type.
 
