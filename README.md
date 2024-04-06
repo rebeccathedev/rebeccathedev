@@ -6,7 +6,7 @@ I started out with QBASIC in the early 90s, writing and modding games. Later, I 
 
 I earned a bachelor's degree from [Auburn University](http://www.auburn.edu) (War Eagle!) in 2004 and have worked as a software engineer in a wide range of industries: transit systems, education, computer-based training, telecommunications, online retailing and health care. I'm currently a technical lead at [Aledade](https://www.aledade.com). Past employers have included:
 
-* [DealNews](https://www.dealnews.com), final role was Team Lead, 2006-2022
+* [DealNews](https://www.dealnews.com), Software Engineer, Senior Software Engineer, Technical Lead, and finally Team Lead, 2006-2022
 * [Asteria Solutions](https://web.archive.org/web/20051215065526/http://www.asteriasgi.com/), Software Engineer, 2005-2006
 * [interactive Point of View](https://web.archive.org/web/20041214040347/http://www.ipov.net/), Software Engineer, 2002-2005 
 * [Auburn University](http://www.auburn.edu), Intern, 2000-2002
