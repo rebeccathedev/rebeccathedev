@@ -21,7 +21,7 @@ I earned a bachelor's degree from [Auburn University](http://www.auburn.edu) (Wa
   <a rel="me" href="https://ko-fi.com/rebeccathedev"><img src="https://cdn.simpleicons.org/kofi/FF5E5B/" width=32></a>
 </div>
 
-
+ 
 <!--
 **rebeccathedev/rebeccathedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
