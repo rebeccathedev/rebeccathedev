@@ -17,8 +17,8 @@ I earned a bachelor's degree from [Auburn University](http://www.auburn.edu) (Wa
   <a rel="me" href="https://bsky.app/profile/rebeccapeck.org"><img src="https://cdn.simpleicons.org/bluesky" width=32></a>&nbsp;&nbsp;
   <a rel="me" href="https://hachyderm.io/@rebeccathedev"><img src="https://cdn.simpleicons.org/mastodon" width=32></a>&nbsp;&nbsp;
   <a rel="me" href="https://www.linkedin.com/in/rebeccathedev/"><img src="https://cdn.simpleicons.org/linkedin" width=32></a>&nbsp;&nbsp;
-  <a rel="me" href="https://dev.to/rebeccathedev"><img src="https://cdn.simpleicons.org/devdotto/aaa/" width=32></a>&nbsp;&nbsp;
-  <a rel="me" href="https://ko-fi.com/rebeccathedev"><img src="https://cdn.simpleicons.org/kofi/FF5E5B/" width=32></a>
+  <a rel="me" href="https://dev.to/rebeccathedev"><img src="https://cdn.simpleicons.org/devdotto" width=32></a>&nbsp;&nbsp;
+  <a rel="me" href="https://ko-fi.com/rebeccathedev"><img src="https://cdn.simpleicons.org/kofi" width=32></a>
 </div>
 
  
