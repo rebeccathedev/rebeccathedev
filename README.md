@@ -12,11 +12,9 @@ I earned a bachelor's degree from [Auburn University](http://www.auburn.edu) (Wa
 * [Auburn University](http://www.auburn.edu), Intern, 2000-2002
 * [TCT Transit Systems](https://web.archive.org/web/20000303222407/http://www.tcttransit.com/), Intern, 1999-2000
 
-<div align="center">
-  <p>Find me online:</p>
-  <a rel="me" href="https://www.linkedin.com/in/rebeccathedev/"><img src="https://cdn.simpleicons.org/linkedin" width=32></a>&nbsp;&nbsp;
-  <a rel="me" href="https://ko-fi.com/rebeccathedev"><img src="https://cdn.simpleicons.org/kofi" width=32></a>
-</div>
+<p>Find me online:</p>
+* [LinkedIn](https://www.linkedin.com/in/rebeccathedev/)
+* [Ko-Fi](https://ko-fi.com/rebeccathedev)
 
  
 <!--
