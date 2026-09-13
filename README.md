@@ -14,8 +14,8 @@ I earned a bachelor's degree from [Auburn University](http://www.auburn.edu) (Wa
 
 **Find me online:**
 * [LinkedIn](https://www.linkedin.com/in/rebeccathedev/)
-* [Ko-Fi](https://ko-fi.com/rebeccathedev)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q3W726YTHU)
  
 <!--
 **rebeccathedev/rebeccathedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
